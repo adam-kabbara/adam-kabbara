@@ -5,9 +5,11 @@
 Here are some ideas to get you started:
 <!--
 - 👨‍💻 I’m currently working on ...
+- 📚 I’m currently learning [swift](https://developer.apple.com/swift/)
 -->
 - 👨‍🎓 I'm a CS oriented grade 12 student
-- 📚 I’m currently learning [swift](https://developer.apple.com/swift/)
+- 📚 I'm the head of the CS club at my school
+- 👨‍💻 I'm looking forward to the [CCC](https://www.cemc.uwaterloo.ca/contests/ccc-cco.html)
 - 🙋‍♂️ Feel free to contribute to the [youtube chrome extension repo](https://github.com/Adam-and-Charlie/Youtube-Filtering-Browser-Extension)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/adam-k-386722234/)
 
