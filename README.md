@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👨‍🎓 I'm a CS oriented grade 12 student
 - 📚 I'm the head of the CS club at my school
 - 👨‍💻 I'm looking forward to the [CCC](https://www.cemc.uwaterloo.ca/contests/ccc-cco.html)
-- 🙋‍♂️ Feel free to contribute to the [CCC solutions rep](https://github.com/adam-kabbara/Canadian-Computing-Competition)
+- 🙋‍♂️ Feel free to contribute to the [CCC solutions repo](https://github.com/adam-kabbara/Canadian-Computing-Competition)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/adam-k-386722234/)
 
 ## Here are my most used programming languages
