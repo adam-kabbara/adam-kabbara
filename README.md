@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/adam-k-386722234/)
 
 ## Here are my most used programming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-kabbara)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-kabbara)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=adam-kabbara&langs_count=8&layout=compact&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Languages and Tech! 🖥️
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
