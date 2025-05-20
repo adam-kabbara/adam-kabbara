@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👨‍💻 I’m currently working on ...
 - 📚 I’m currently learning [swift](https://developer.apple.com/swift/)
 -->
-- 👨‍🎓 I'm a second-year Engineering Science student at the University of Toronto
+- 👨‍🎓 I'm a third-year Engineering Science student at the University of Toronto majoring in Electrical and Computer Engineering and minoring in Robotics and Mechatronics
 - 🤖 I'm a part of the Cansat subteam at UofT's RSX design team
 - 👨‍💻 I'm looking forward to competing at [Cansat](https://www.cansatcompetition.com/)
 - 🙋‍♂️ Feel free to contribute to the [CCC solutions repo](https://github.com/adam-kabbara/Canadian-Computing-Competition)
